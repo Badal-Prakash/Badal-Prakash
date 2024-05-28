@@ -12,4 +12,7 @@ I'm Badal Prakash Narayan, a third-year B.E. student at Siddaganga Institute of 
 ---
 [![](https://visitcount.itsvg.in/api?id=Badal-Prakash&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+[![](https://visitcount.itsvg.in/api?id=badalprakash&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
