@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Badal Prakash Narayan, a third-year B.E. student at Siddaganga Institute of Technology. Currently, I'm immersed in learning the MERN stack, and my passion lies in development.<br><br>
+Hello folks, Badal here! I'm currently in my final year of Bachelor of Engineering at Siddaganga Institute of Technology, deeply immersed in mastering the MERN stack, and driven by a strong passion for development.<br><br>
 
 
 # 💻 Tech Stack:
