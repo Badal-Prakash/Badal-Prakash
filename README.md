@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello folks, Badal here! I'm currently in my final year of Bachelor of Engineering at Siddaganga Institute of Technology, deeply immersed in mastering the MERN stack, and driven by a strong passion for development.<br><br>
+Hello folks, Badal here! I'm currently a **Software Engineer at Eurofins IT Solutions India**. 
+
+I am driven by a passion for building scalable, high-performance enterprise systems. While I have a strong foundation in the **MERN stack**, my professional focus is currently on **Enterprise Application Development** using **.NET Core, C#, PostgreSQL, and Clean Architecture (CQRS/MediatR)**. I enjoy solving complex architectural challenges and delivering robust backend solutions.<br><br>
 
 
 # 💻 Tech Stack:
